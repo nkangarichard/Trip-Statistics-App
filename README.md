@@ -34,7 +34,7 @@ This app utilizes the Core Location framework and MapKit to track the user's loc
 
 
 ## Video Preview
-https://github.com/richardnkanga/GPS-and-Maps/assets/75099089/3691eb8a-eb0e-4ba5-9749-b40ae32c4076
+[Trip Statistics App Video Preview](https://github.com/richardnkanga/GPS-and-Maps/assets/75099089/9ef0658d-3744-483c-a50c-dfd6fe400617)
 
 
 
